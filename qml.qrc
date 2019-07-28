@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Menu.qml</file>
+        <file>BootBotton.qml</file>
+        <file>test.js</file>
+    </qresource>
+</RCC>

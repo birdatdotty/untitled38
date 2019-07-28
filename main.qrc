@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Configure.js</file>
+        <file>About.qml</file>
+        <file>CSS.qml</file>
+        <file>HEADCommon.qml</file>
+        <file>Index.qml</file>
+        <file>LgCenter.qml</file>
+        <file>main.qml</file>
+        <file>Menu.qml</file>
+        <file>PHP.qml</file>
+        <file>Ps.qml</file>
+        <file>Test.qml</file>
+        <file>TestPhp.qml</file>
+        <file>bootstrap/BootAlert.qml</file>
+        <file>bootstrap/BootBadge.qml</file>
+        <file>bootstrap/BootBotton2.qml</file>
+        <file>bootstrap/BootBreadcrumb.qml</file>
+        <file>bootstrap/BootCarousel.qml</file>
+        <file>bootstrap/BootJumbotron.qml</file>
+        <file>bootstrap/BootMenu.qml</file>
+        <file>bootstrap/BootModal.qml</file>
+        <file>bootstrap/BootScrollspy.qml</file>
+        <file>bootstrap/BootstrapHead.qml</file>
+        <file>bootstrap/NavBarLi.qml</file>
+        <file>bootstrap/NavBarLiActive.qml</file>
+    </qresource>
+    <qresource prefix="/bootstrap"/>
+</RCC>
